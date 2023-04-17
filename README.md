@@ -10,6 +10,8 @@ Original file is located at [colab](https://colab.research.google.com/drive/1M5B
 * The method is similar to the famous MNIST problem. 
 * The training data contains 18,000 chessboards.
 *  The code then creates 60,000 images from these chessboards, each containing 64 squares, with up to 32 pieces in the game.
+* example: FEN code: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR
+
 
 ## Libraries Used
 * cv2
